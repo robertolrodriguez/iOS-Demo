@@ -21,7 +21,7 @@
                                 <rect key="frame" x="116" y="191" width="133" height="30"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
-                                <state key="normal" title="touch this dude"/>
+                                <state key="normal" title="touch this"/>
                             </button>
                             <slider opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" value="0.5" minValue="0.0" maxValue="1" translatesAutoresizingMaskIntoConstraints="NO" id="bAk-1d-Bse">
                                 <rect key="frame" x="66" y="340" width="243" height="30"/>
